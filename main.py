@@ -1,1 +1,2 @@
-import 
+import board
+import time
