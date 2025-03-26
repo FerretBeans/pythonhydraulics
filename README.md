@@ -12,4 +12,4 @@ i dont like it at all but im kinda forced to because money is cool
 - [x] Maybe create a document for it that I can link here
 
 ### **Documentation**
-[Link](https://docs.google.com/document/d/1pKh1kvkPhC7Oco7p_3FMli3tV4ux9GSDu_0mu3Hv3p/)
+[Link](https://docs.google.com/document/d/1pKh1kvkPhC7Oco7p_3FMli3tV4ux9GSDu_0mu3Hv3pg/edit?usp=drivesdk)
